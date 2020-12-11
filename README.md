@@ -1,15 +1,23 @@
 ### Date created
-Include the date you created this project and README file.
+
+12/10/20
 
 ### Project Title
-Replace the Project Title
+
+US Bike Share
 
 ### Description
-Describe what your project is about and what it does
+
+Key Information
+
+1.  Popular Travel Time - most common time(s)
+2.  Popular Stations and Trips - start and end stations
+3.  Trip Duration - travel time and/or average travel time
+4.  Raw Data - filter by month, week, starting point, endpoint and destination
 
 ### Files used
-Include the files used
 
-### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+bikeshare.py (code for above)
+
+
 
