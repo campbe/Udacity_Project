@@ -1,18 +1,20 @@
 ### Date created
-Include the date you created this project and README file.
+
 12/11/20
 
 ### Project Title
-Replace the Project Title
+
 US Bike Share
 
 ### Description
-Describe what your project is about and what it does
-Popular time schedules
+
+1.  Popular Travel Time 
+2.  Popular Stations and Trips
+3.  Trip Duration
+4.  Raw Data
 
 ### Files used
 Include the files used
 
-### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+
 
