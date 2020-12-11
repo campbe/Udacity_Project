@@ -1,11 +1,14 @@
 ### Date created
 Include the date you created this project and README file.
+12/11/20
 
 ### Project Title
 Replace the Project Title
+US Bike Share
 
 ### Description
 Describe what your project is about and what it does
+Popular time schedules
 
 ### Files used
 Include the files used
